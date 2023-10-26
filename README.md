@@ -2,7 +2,6 @@
 
 👋 I'm Julyana Prado, a full stack developer in training.
 
-
 ❤️ Fatecana
 
 🔭 I'm currently working on cross-platform development projects.
@@ -16,4 +15,6 @@
 📫 You can reach me by email at jtplara@gmail.com.
 
 [LinkedIn Button](https://www.linkedin.com/in/jupradoai)
+![LinkedIn Icon](https://cdn.iconscout.com/icon/free/png-512/linkedin-28340.png)
 [WhatsApp Button](https://api.whatsapp.com/send?phone=+5511954479740)
+![WhatsApp Icon](https://cdn.iconscout.com/icon/free/png-512/whatsapp-30578.png)
