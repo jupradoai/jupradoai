@@ -12,9 +12,8 @@
 
 💬 If you have any questions, don't hesitate to ask!
 
-📫 You can reach me by email at jtplara@gmail.com.
+📫 You can reach me:
 
-[LinkedIn Button](https://www.linkedin.com/in/jupradoai)
-![LinkedIn Icon](https://cdn.iconscout.com/icon/free/png-512/linkedin-28340.png)
-[WhatsApp Button](https://api.whatsapp.com/send?phone=+5511954479740)
-![WhatsApp Icon](https://cdn.iconscout.com/icon/free/png-512/whatsapp-30578.png)
+[LinkedIn](https://www.linkedin.com/in/jupradoai)
+or
+[WhatsApp](https://contate.me/jupradoai)
