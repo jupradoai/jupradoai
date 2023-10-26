@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**jupradoai/jupradoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Julyana Prado, a full stack developer in training.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ Fatecana
+
+🔭 I'm currently working on cross-platform development projects.
+
+🌱 I'm learning Java and Angular.
+
+👯 I'm always looking to collaborate with others and share my knowledge.
+
+💬 If you have any questions, don't hesitate to ask!
+
+📫 You can reach me by email at jtplara@gmail.com.
+
+[LinkedIn Button](https://www.linkedin.com/in/jupradoai)
+[WhatsApp Button](https://api.whatsapp.com/send?phone=+5511954479740)
