@@ -6,7 +6,7 @@
 
 🔭 I'm currently working on cross-platform development projects.
 
-🌱 I'm learning Java and Angular.
+🌱 I'm PROGRAMMER.
 
 👯 I'm always looking to collaborate with others and share my knowledge.
 
