@@ -12,8 +12,6 @@
 
 💬 If you have any questions, don't hesitate to ask!
 
-📫 You can reach me:
+📫 For more information, visit my portfolio:
 
-[LinkedIn](https://www.linkedin.com/in/jupradoai)
-or
-[WhatsApp](https://contate.me/jupradoai)
+[Portfolio](https://86c42919-63fd-4d5c-975c-e06e43042b18-00-2vlox1low0mkr.worf.replit.dev/)
