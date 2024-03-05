@@ -12,5 +12,5 @@
 
 💬 If you have any questions, don't hesitate to ask!
 
-For more information visit my [Portfolio](https://86c42919-63fd-4d5c-975c-e06e43042b18-00-2vlox1low0mkr.worf.replit.dev/) ;)
+For more information, visit my [Portfolio](https://86c42919-63fd-4d5c-975c-e06e43042b18-00-2vlox1low0mkr.worf.replit.dev/) ;)
 
